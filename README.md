@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @J0ri501
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,java)](https://skillicons.dev)
 
 <!---
 J0ri501/J0ri501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
