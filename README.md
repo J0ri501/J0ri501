@@ -1,5 +1,5 @@
 
-[Joris@Arch ~]$ whoami
+[J0ri501@Arch ~]$ whoami
 
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,java)](https://skillicons.dev)
