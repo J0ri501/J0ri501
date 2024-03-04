@@ -8,7 +8,8 @@ i am jorge luis, a mexican Mechatronics engineer
 
 
 <h2>Programming languages:</h2>
-[![languages](https://skillicons.dev/icons?i=cpp,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,java)](https://skillicons.dev)
+
 
 <!---
 J0ri501/J0ri501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
