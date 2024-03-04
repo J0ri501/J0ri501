@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @J0ri501
+[Joris@Arch ~]$ whoami
+
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,java)](https://skillicons.dev)
 
