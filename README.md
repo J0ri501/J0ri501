@@ -4,16 +4,10 @@
 i am jorge luis, a mexican Mechatronics engineer
 </p>
 
+<h1>Languages,Frameworks,Tools, Tech:</h1>
 
-<h1>Languages - Frameworks - Tools:</h1>
-<h2>Programming languages & Tech</h2>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,py,java,lua,bash,git,mysql,docker,html,css" /></a>
-<h2>Frameworks:</h2>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,flask" /></a>
-<h2>Tools:</h2>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=emacs,neovim,vim,arduino,sqlite,obsidian,notion,godot," /></a>
-<h2>Operating systems and distros:</h2>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,mint" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,py,java,lua,bash,git,mysql,docker,html,css,spring,flask,emacs,neovim,vim,arduino,sqlite,obsidian,notion,windows,linux,arch,ubuntu,mint" /></a>
+
 <!---
 J0ri501/J0ri501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
