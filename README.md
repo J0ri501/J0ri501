@@ -7,7 +7,7 @@ i am jorge luis, a mexican Mechatronics engineer
 
 <h1>Languages - Frameworks - Tools:</h1>
 <h2>Programming languages & Tech</h2>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,py,java,lua,bash,mysql,docker,html,css" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,py,java,lua,bash,git,mysql,docker,html,css" /></a>
 <h2>Frameworks:</h2>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,flask" /></a>
 <h2>Tools:</h2>
