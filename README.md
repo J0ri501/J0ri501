@@ -1,7 +1,7 @@
 
 <h1>[J0ri501@Arch ~]$ whoami</h1>
 <p>
-i am jorge luis, a mexican Mechatronics engineer
+i am joris, a Mechatronics engineer
 </p>
 
 <h1>Languages,Frameworks,Tools, Tech:</h1>
