@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J0ri501
+
 [Joris@Arch ~]$ whoami
 
 
