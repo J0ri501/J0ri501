@@ -1,11 +1,13 @@
 
 <h1>[J0ri501@Arch ~]$ whoami</h1>
+<p>
 
 i am jorge luis, a mexican Mechatronics engineer
 
+</p>
 
 
-Programming languages:
+<h2>Programming languages:</h2>
 [![languages](https://skillicons.dev/icons?i=cpp,py,java)](https://skillicons.dev)
 
 <!---
