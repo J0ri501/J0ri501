@@ -1,7 +1,7 @@
 
 <h1>[J0ri501@Arch ~]$ whoami</h1>
 <p>
-i am joris, a Mechatronics engineer
+i am George, a Mechatronics engineer
 </p>
 
 <h1>Languages,Frameworks,Tools, Tech:</h1>
