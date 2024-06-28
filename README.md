@@ -6,7 +6,7 @@ i am George, a Mechatronics engineer
 
 <h1>Languages,Frameworks,Tools, Tech:</h1>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,py,java,lua,bash,git,mysql,docker,html,css,spring,flask,emacs,neovim,vim,arduino,sqlite,obsidian,notion,windows,linux,arch,ubuntu,mint" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,py,java,bash,git,mysql,docker,html,css,spring,flask,emacs,neovim,vim,arduino,sqlite,obsidian,notion,windows,linux,arch,debian" /></a>
 
 <!---
 J0ri501/J0ri501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
