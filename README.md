@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m continuously learning and exploring advanced algorithms and system design.
+- 🌱 I’m a monkey
 - 👯 I’m looking to collaborate on impactful open-source projects.
 - 💬 
 - 📫 
