@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m a monkey
+- 
 -
 - 💬 
 - 📫 
