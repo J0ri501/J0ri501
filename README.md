@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 🌱 I’m a monkey
-- 👯 I’m looking to collaborate on impactful open-source projects.
+-
 - 💬 
 - 📫 
 - ⚡ 
